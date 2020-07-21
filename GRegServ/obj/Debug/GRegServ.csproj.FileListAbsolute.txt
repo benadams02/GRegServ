@@ -1,0 +1,14 @@
+C:\Users\Ben\source\repos\GRegServ\bin\Debug\GRegServ.exe.config
+C:\Users\Ben\source\repos\GRegServ\bin\Debug\GRegServ.exe
+C:\Users\Ben\source\repos\GRegServ\bin\Debug\GRegServ.pdb
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\MainWindow.g.cs
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\App.g.cs
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ_MarkupCompile.cache
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ_MarkupCompile.lref
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\MainWindow.baml
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.g.resources
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.Properties.Resources.resources
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.exe
+C:\Users\Ben\source\repos\GRegServ\obj\Debug\GRegServ.pdb
